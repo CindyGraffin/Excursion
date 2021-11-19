@@ -9,24 +9,28 @@ You can see below the redline and the final project.
 
 <div align="center">
   <kbd>
-    <img src="ressouces/images/excursion_redline.png" width="500"/>
+    <img src="resources/images/excursion_redline.png" width="250"/>
   </kbd>
 </div>
 
 <div align="center">
   <kbd>
-    <img src="ressouces/images/Final-Project.png" width="500"/>
+    <img src="resources/images/Final-Project.png" width="250"/>
   </kbd>
 </div>
 
 ## Built With
 
-
 *Visual Studio Code
+<br/>
 *HTML
+<br/>
 *CSS
+<br/>
 *Markdown
 
 ## Author
 
-Graffin Cindy graffincindy@gmail.com
+Graffin Cindy 
+<br/>
+graffincindy@gmail.com
