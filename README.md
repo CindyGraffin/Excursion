@@ -1,4 +1,5 @@
 # DISCOVER HIDDEN PLACES IN THE WORLD AROUND YOU
+
  
 A Codecademy's project.
 
