@@ -5,7 +5,7 @@ A Codecademy's project.
 
 ## DESCRIPTION
 
-I had a redline in order to produce this page.
+I had a readline in order to produce this page.
 You can see below the redline and the final project.
 
 <div align="center">
